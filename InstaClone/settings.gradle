@@ -1,0 +1,2 @@
+rootProject.name = "InstagramAndroid-Clone"
+include ':app'

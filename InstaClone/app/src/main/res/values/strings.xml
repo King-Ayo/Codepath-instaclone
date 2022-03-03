@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IgClone</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com</string>
+    <string name="back4app_app_id">Xy0jfU5OT2uePGXl5Y439O3Xh4ICqACalkUeBRKB</string>
+    <string name="back4app_client_key">t3hzOcNArW0h5o80v8FhFQbUKIYkya28olqDFtRv</string>
+</resources>
