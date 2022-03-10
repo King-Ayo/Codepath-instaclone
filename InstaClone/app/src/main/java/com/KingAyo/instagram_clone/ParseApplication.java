@@ -29,8 +29,8 @@ public class ParseApplication extends Application {
         builder.networkInterceptors().add(httpLoggingInterceptor);
 
         Parse.initialize(new Parse.Configuration.Builder(this)
-                .applicationId("Xy0jfU5OT2uePGXl5Y439O3Xh4ICqACalkUeBRKB")
-                .clientKey("t3hzOcNArW0h5o80v8FhFQbUKIYkya28olqDFtRv")
+                .applicationId("gxff3WMmhliw9nrYrWy9QuEWHJJn4K9GWImIh2Ck")
+                .clientKey("bQ6zrt7s4EQvYkkIYZvtOpdA16X31TjS6MtXRAvH")
                 .server("https://parseapi.back4app.com")
                 .build()
         );
