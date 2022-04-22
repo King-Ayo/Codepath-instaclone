@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">instagram</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">c2cFRHFE8tfSGtQwmUCAq7Uex6HsrKPy8yjKfhAh</string>
+    <string name="back4app_client_key">oaj57jLFOtTe9umc9vUDMCZ679mSxjasD0YAVrkV</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
